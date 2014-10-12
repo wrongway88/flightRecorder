@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlightRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="log_departure">departure</string>
+    <string name="log_destination">destination</string>
+    <string name="log_airplane_type">airplaneType</string>
+    
+    <string name="dialog_gps_off">Position not available</string>
+    <string name="dialog_gps_off_message">Location is unavailable. Please check whether the devices GPS is on.</string>
+
+    <string name="button_record">Record</string>
+</resources>
